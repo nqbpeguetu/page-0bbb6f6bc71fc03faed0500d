@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f84003e9f5c88505bb5d99c7",
+  "owner": "nqbpeguetu",
+  "repo": "page-0bbb6f6bc71fc03faed0500d",
+  "title": "VC喵",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0bbb6f6bc71fc03faed0500d",
+      "a": "VC喵",
+      "b": "2027最新官网",
+      "entity": "VC喵",
+      "brand": "VC喵",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "26e2ff3e118d7513ce1530347f64a508218db7b595d8b78cc3d9eca4ac9d10ab",
+      "content": {
+        "primary_entity": "VC喵",
+        "keyword1": "VC喵",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，VC喵面向需要稳定跨区访问的用户，提供基础版、旗舰版和团队版三档订阅。基础版每月15元含100GB流量并支持3台设备，旗舰版每月35元含300GB流量与IPLC专线，团队版每月85元含1000GB流量并支持20台设备。按年付费分别只需150元、350元和850元，适合个人、家庭与小型团队按需选择。",
+          "AI_HERO_SUBTITLE": "按设备与流量灵活选套餐",
+          "AI_HERO_INTRO": "VC喵提供基础版、旗舰版、团队版三档订阅，覆盖日常浏览、流媒体与游戏加速场景。流量从每月100GB到1000GB，设备数从3台到20台，按年付费比月付更省。",
+          "AI_VISUAL_TITLE": "VC喵订阅方案总览",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数灵活匹配",
+          "AI_HIGHLIGHT_2": "年付方案比月付节省两个月费用",
+          "AI_HIGHLIGHT_3": "节点池按套餐分层提供",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURES_INTRO": "先确认日常设备数和月流量需求，再对比三档套餐，订阅周期越长单月成本越低。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按实际在线设备数量选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量估算档位",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度浏览，300GB兼顾视频，1000GB适合多设备高频使用。",
+          "AI_FEATURE_TITLE_3": "年付降低月均成本",
+          "AI_FEATURE_TEXT_3": "基础版年付150元、旗舰版350元、团队版850元，相当于十个月价格使用十二个月。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统适配的客户端不同，按设备类型选择对应工具并导入订阅即可。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版15元每月，旗舰版35元每月，团队版85元每月；年付分别为150元、350元和850元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅导入，按顺序操作即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统的客户端名称、系统版本与订阅格式是否匹配。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的订阅导入说明添加配置，完成后即可使用。",
+          "AI_FAQ_INTRO": "套餐对比、设备限制与订阅导入。",
+          "AI_CLOSING_TITLE": "选对套餐，订阅更省心",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定版本，按年付费可进一步降低月均开销。",
+          "AI_FAQ_ANSWER_1": "基础版适合手机加电脑 2 至 3 台设备、每月流量 100GB 以内的轻量使用；若常用流媒体或需要游戏加速，可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB、可 5 台设备在线；团队版每月 1000GB、可 20 台设备在线，并支持企业定制路由。",
+          "AI_FAQ_ANSWER_3": "年付比月付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相当于按月付费的折扣价。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统与数量，再从客户端文档下载对应客户端，导入订阅地址后即可连接。不同平台适配情况以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "流量用尽后可在下一计费周期恢复，也可升级套餐；日常流媒体与网页浏览较多时建议选流量更大的套餐。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版在设备数上有何区别？",
+          "AI_FAQ_QUESTION_3": "年付与月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "如何为不同设备配置客户端？",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "knlyh.cn",
+    "host": "knlyh.cn"
+  },
+  "file_hashes": {
+    "index.html": "c3ba5b38a2fe8a0efaee08fc16142da38ae360dd8d846656d7f673a1ac36e77b",
+    "sitemap.xml": "d4f7cd5699242b9bbcee7e2851854c462872a5f75983f3508e7fba9b13e4bf0d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f09d33cb1381c760d4bce76ada64ad16cd7da6527df33b667a03f405ad5c000b",
+    "robots.txt": "ad53d836db0b37e666b4d16d0ec6b4a43339a8d3b885b46a30b280df88d35c94",
+    "d19bdd5b6afa03c9d932a5309e178b8d.txt": "b5a55cedea7f7823687c585e632f629788a245aab9d0dd55ed98d1f62532a1ac"
+  },
+  "revision": "b57454f3bc4b700c2ee6bd545aede4b2a312e3ef9df4848c39f600ed78660f5e"
+}
